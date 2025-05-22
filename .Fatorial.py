@@ -1,4 +1,4 @@
-numeroParaFatorar = int(input("Digite um numero:"))
+numeroParaFatorar = int(input("Digite um numero, para fatorar:"))
 
 i = 1
 fatorial = 1
